@@ -1,0 +1,2 @@
+El funcionamiento del programa consta con el menu de opciones que son 4 listas de ordenamiento, Bubble, Quick, calcular el factorial y resolver las torre de Hanoi. 
+El usuario ingresar una lista de numeros separados por comas mostrandose una lista ordenanda usando los algoritmos de las opciones que ofrece el mismo y al final muestra lo que es también el tiempo de ejecución.
